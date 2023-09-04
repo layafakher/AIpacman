@@ -1,5 +1,5 @@
 # AIpacman
-implementation of pacman using BFS, DFS, A*, UCS
+implementation of pacman using artificial intelligence search algorithms Like BFS, DFS, A*, UCS.
 
 ![image](https://github.com/layafakher/AIpacman/assets/62253882/05a14dc3-413f-4a74-9ba7-8557b98d9c0f)
 
